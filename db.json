@@ -1,8 +1,8 @@
 [
-    { "name": 1, "email": "Post 1" },
-    { "name": 2, "email": "Post 2" },
-    { "name": 3, "email": "Post 3" },
-    { "name": 3, "email": "Post 3" },
-    { "name": 3, "email": "Post 3" },
-    { "name": 3, "email": "Post 3" }
+    { "id": 1, "name": "Plamen", "email": "plameneftimov11@gmail.com" },
+    { "id": 2, "name": "Plamen", "email": "plameneftimov11@gmail.com" },
+    { "id": 3, "name": "Plamen", "email": "plameneftimov11@gmail.com" },
+    { "id": 4, "name": "Plamen", "email": "plameneftimov11@gmail.com" },
+    { "id": 5, "name": "Plamen", "email": "plameneftimov11@gmail.com" },
+    { "id": 6, "name": "Plamen", "email": "plameneftimov11@gmail.com" }
 ]
