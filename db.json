@@ -1,8 +1,8 @@
-{
+[
     { "name": 1, "email": "Post 1" },
     { "name": 2, "email": "Post 2" },
     { "name": 3, "email": "Post 3" },
     { "name": 3, "email": "Post 3" },
     { "name": 3, "email": "Post 3" },
     { "name": 3, "email": "Post 3" },
-}
+]
